@@ -1,0 +1,10 @@
+{
+  "note": "corpus/chunks.json, corpus/sources/* and src/grading.ts are byte-identical copies from the agentic-rag-mastra repo. Tests check the hashes below.",
+  "sourceRepo": "agentic-rag-mastra",
+  "sourceCommit": "d19dfcd44a32ae8d3294faa95b57a0f24b41534c",
+  "copiedAt": "2026-11-09",
+  "files": {
+    "corpus/chunks.json": "47c55126a879a8e8f9c0d0ea6c11c48790a49270717c2b05d232bbdd00ec1245",
+    "src/grading.ts": "a1e563cb29ac43db6508a34c46b8d58e240f81838a49a972252d0e4d798adcb6"
+  }
+}

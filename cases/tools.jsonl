@@ -1,0 +1,12 @@
+{"id":"t-list-articles","question":"Welche Artikel der KI-Verordnung kannst du durchsuchen?","expected_tool":"list_articles","expected_outcome":"answered","tags":["list"]}
+{"id":"t-list-count-art5","question":"Wie viele Absätze aus Artikel 5 sind im Korpus enthalten?","expected_tool":"list_articles","expected_outcome":"answered","tags":["list"]}
+{"id":"t-list-ids-art26","question":"Welche Chunk-IDs gehören zu Artikel 26?","expected_tool":"list_articles","expected_outcome":"answered","tags":["list"]}
+{"id":"t-list-has-art10","question":"Ist Artikel 10 im durchsuchbaren Korpus enthalten?","expected_tool":"list_articles","expected_outcome":"answered","tags":["list"]}
+{"id":"t-get-art50-p1","question":"Gib mir den Wortlaut von Chunk art50-p1.","expected_tool":"get_chunk","expected_chunk_id":"art50-p1","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art99-p3","question":"Zeig mir den vollständigen Text von art99-p3.","expected_tool":"get_chunk","expected_chunk_id":"art99-p3","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art4-p1","question":"Was steht genau in art4-p1?","expected_tool":"get_chunk","expected_chunk_id":"art4-p1","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art6-p1","question":"Zitiere art6-p1 wörtlich und fasse es in einem Satz zusammen.","expected_tool":"get_chunk","expected_chunk_id":"art6-p1","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art5-p1-a","question":"Lies den Abschnitt art5-p1-a und sag mir, welche Praxis er verbietet.","expected_tool":"get_chunk","expected_chunk_id":"art5-p1-a","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art26-p5","question":"Was regelt der Chunk art26-p5?","expected_tool":"get_chunk","expected_chunk_id":"art26-p5","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-art113-p0","question":"Lies art113-p0: Ab wann gilt die Verordnung?","expected_tool":"get_chunk","expected_chunk_id":"art113-p0","expected_outcome":"answered","tags":["get"]}
+{"id":"t-get-missing","question":"Gib mir den Text von art50-p9.","expected_tool":"get_chunk","expected_chunk_id":"art50-p9","expected_outcome":"refused","tags":["get","missing"]}

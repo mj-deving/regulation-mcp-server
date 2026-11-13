@@ -1,0 +1,332 @@
+[
+  {
+    "id": "art4-p1",
+    "article": 4,
+    "text": "(1) Die Anbieter und Betreiber von KI-Systemen ergreifen Maßnahmen, um die Entwicklung der KI-Kompetenz ihres Personals und anderer Personen zu unterstützen, die in ihrem Auftrag mit dem Betrieb und der Nutzung von KI-Systemen befasst sind, wobei ihre technischen Kenntnisse, ihre Erfahrung, ihre Aus- und Fortbildung und der Kontext, in dem die KI-Systeme eingesetzt werden sollen, sowie die Personen oder Personengruppen, bei denen die KI-Systeme eingesetzt werden sollen, zu berücksichtigen sind. Diese Verpflichtung verpflichtet Anbieter oder Betreiber nicht, für irgendeine Person ein bestimmtes Niveau an KI-Kompetenz zu garantieren."
+  },
+  {
+    "id": "art4-p2",
+    "article": 4,
+    "text": "(2) Die Kommission und die Mitgliedstaaten unterstützen und fördern die Bemühungen der Anbieter und Betreiber von KI-Systemen und insbesondere von KMU, ihre Verpflichtung nach Absatz 1 dieses Artikels zu erfüllen. Zu diesem Zweck veröffentlicht die Kommission praktische Beispiele dafür, wie diese Verpflichtung erfüllt wird auf der in Artikel 62 Absatz 3 Buchstabe b genannten zentralen Informationsplattform."
+  },
+  {
+    "id": "art4-p3",
+    "article": 4,
+    "text": "(3) Das KI-Gremium nimmt unter Berücksichtigung der europäischen Kompetenzrahmen Empfehlungen an, um die Kommission und die Mitgliedstaaten unter anderem durch die Festlegung gemeinsamer Ziele bei der Förderung der KI-Kompetenz gemäß Absatz 1 zu unterstützen."
+  },
+  {
+    "id": "art5-p1-0",
+    "article": 5,
+    "text": "(1) Folgende Praktiken im KI-Bereich sind verboten:"
+  },
+  {
+    "id": "art5-p1-a",
+    "article": 5,
+    "text": "a) das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das Techniken der unterschwelligen Beeinflussung außerhalb des Bewusstseins einer Person oder absichtlich manipulative oder täuschende Techniken mit dem Ziel oder der Wirkung einsetzt, das Verhalten einer Person oder einer Gruppe von Personen wesentlich zu verändern, indem ihre Fähigkeit, eine fundierte Entscheidung zu treffen, deutlich beeinträchtigt wird, wodurch sie veranlasst wird, eine Entscheidung zu treffen, die sie andernfalls nicht getroffen hätte, und zwar in einer Weise, die dieser Person, einer anderen Person oder einer Gruppe von Personen erheblichen Schaden zufügt oder mit hinreichender Wahrscheinlichkeit zufügen wird. b) das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das eine Vulnerabilität oder Schutzbedürftigkeit einer natürlichen Person oder einer bestimmten Gruppe von Personen aufgrund ihres Alters, einer Behinderung oder einer bestimmten sozialen oder wirtschaftlichen Situation mit dem Ziel oder der Wirkung ausnutzt, das Verhalten dieser Person oder einer dieser Gruppe angehörenden Person in einer Weise wesentlich zu verändern, die dieser Person oder einer anderen Person erheblichen Schaden zufügt oder mit hinreichender Wahrscheinlichkeit zufügen wird;"
+  },
+  {
+    "id": "art5-p1-ba",
+    "article": 5,
+    "text": "ba) das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das realistische Bild-, Video-, Ton- oder ähnliche Inhalte erzeugt oder manipuliert, in denen intime Körperteile einer bestimmbaren natürlichen Person dargestellt werden oder eine an eindeutig sexuellen Handlungen beteiligte bestimmbare Person dargestellt wird, ohne dass die betreffende Person eine aus freien Stücken erfolgende, spezifische, aufgeklärte, eindeutige und ausdrückliche Zustimmung zu dieser Erzeugung oder Manipulation erteilt hat;"
+  },
+  {
+    "id": "art5-p1-bb",
+    "article": 5,
+    "text": "bb) das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das Material oder Darbietungen im Sinne von Artikel 2 Buchstaben c und e der Richtlinie 2011/93/EU erzeugt oder manipuliert, es sei denn, nach nationalem Recht gilt das „unrechtmäßige” Verhalten als gerechtfertigt;"
+  },
+  {
+    "id": "art5-p1-c",
+    "article": 5,
+    "text": "c) das Inverkehrbringen, die Inbetriebnahme oder die Verwendung von KI-Systemen zur Bewertung oder Einstufung von natürlichen Personen oder Gruppen von Personen über einen bestimmten Zeitraum auf der Grundlage ihres sozialen Verhaltens oder bekannter, abgeleiteter oder vorhergesagter persönlicher Eigenschaften oder Persönlichkeitsmerkmale, wobei die soziale Bewertung zu einem oder beiden der folgenden Ergebnisse führt: i) Schlechterstellung oder Benachteiligung bestimmter natürlicher Personen oder Gruppen von Personen in sozialen Zusammenhängen, die in keinem Zusammenhang zu den Umständen stehen, unter denen die Daten ursprünglich erzeugt oder erhoben wurden; ii) Schlechterstellung oder Benachteiligung bestimmter natürlicher Personen oder Gruppen von Personen in einer Weise, die im Hinblick auf ihr soziales Verhalten oder dessen Tragweite ungerechtfertigt oder unverhältnismäßig ist;"
+  },
+  {
+    "id": "art5-p1-d",
+    "article": 5,
+    "text": "d) das Inverkehrbringen, die Inbetriebnahme für diesen spezifischen Zweck oder die Verwendung eines KI-Systems zur Durchführung von Risikobewertungen in Bezug auf natürliche Personen, um das Risiko, dass eine natürliche Person eine Straftat begeht, ausschließlich auf der Grundlage des Profiling einer natürlichen Person oder der Bewertung ihrer persönlichen Merkmale und Eigenschaften zu bewerten oder vorherzusagen; dieses Verbot gilt nicht für KI-Systeme, die dazu verwendet werden, die durch Menschen durchgeführte Bewertung der Beteiligung einer Person an einer kriminellen Aktivität, die sich bereits auf objektive und überprüfbare Tatsachen stützt, die in unmittelbarem Zusammenhang mit einer kriminellen Aktivität stehen, zu unterstützen;"
+  },
+  {
+    "id": "art5-p1-e",
+    "article": 5,
+    "text": "e) das Inverkehrbringen, die Inbetriebnahme für diesen spezifischen Zweck oder die Verwendung von KI-Systemen, die Datenbanken zur Gesichtserkennung durch das ungezielte Auslesen von Gesichtsbildern aus dem Internet oder von Überwachungsaufnahmen erstellen oder erweitern;"
+  },
+  {
+    "id": "art5-p1-f",
+    "article": 5,
+    "text": "f) das Inverkehrbringen, die Inbetriebnahme für diesen spezifischen Zweck oder die Verwendung von KI-Systemen zur Ableitung von Emotionen einer natürlichen Person am Arbeitsplatz und in Bildungseinrichtungen, es sei denn, die Verwendung des KI-Systems soll aus medizinischen Gründen oder Sicherheitsgründen eingeführt oder auf den Markt gebracht werden;"
+  },
+  {
+    "id": "art5-p1-g",
+    "article": 5,
+    "text": "g) das Inverkehrbringen, die Inbetriebnahme für diesen spezifischen Zweck oder die Verwendung von Systemen zur biometrischen Kategorisierung, mit denen natürliche Personen individuell auf der Grundlage ihrer biometrischen Daten kategorisiert werden, um ihre Rasse, ihre politischen Einstellungen, ihre Gewerkschaftszugehörigkeit, ihre religiösen oder weltanschaulichen Überzeugungen, ihr Sexualleben oder ihre sexuelle Ausrichtung zu erschließen oder abzuleiten; dieses Verbot gilt nicht für die Kennzeichnung oder Filterung rechtmäßig erworbener biometrischer Datensätze, wie z. B. Bilder auf der Grundlage biometrischer Daten oder die Kategorisierung biometrischer Daten im Bereich der Strafverfolgung;"
+  },
+  {
+    "id": "art5-p1-h",
+    "article": 5,
+    "text": "h) die Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken, außer wenn und insoweit dies im Hinblick auf eines der folgenden Ziele unbedingt erforderlich ist: i) gezielte Suche nach bestimmten Opfern von Entführung, Menschenhandel oder sexueller Ausbeutung sowie die Suche nach vermissten Personen; ii) Abwenden einer konkreten, erheblichen und unmittelbaren Gefahr für das Leben oder die körperliche Unversehrtheit natürlicher Personen oder einer tatsächlichen und bestehenden oder tatsächlichen und vorhersehbaren Gefahr eines Terroranschlags; iii) Aufspüren oder Identifizieren einer Person, die der Begehung einer Straftat verdächtigt wird, zum Zwecke der Durchführung von strafrechtlichen Ermittlungen oder von Strafverfahren oder der Vollstreckung einer Strafe für die in Anhang II aufgeführten Straftaten, die in dem betreffenden Mitgliedstaat nach dessen Recht mit einer Freiheitsstrafe oder einer freiheitsentziehenden Maßregel der Sicherung im Höchstmaß von mindestens vier Jahren bedroht ist. Unterabsatz 1 Buchstabe h gilt unbeschadet des Artikels 9 der Verordnung (EU) 2016/679 für die Verarbeitung biometrischer Daten zu anderen Zwecken als der Strafverfolgung."
+  },
+  {
+    "id": "art5-p1a",
+    "article": 5,
+    "text": "(1a) Für die Zwecke von Absatz 1 Unterabsatz 1 Buchstaben ba und bb: a) Das Inverkehrbringen oder die Inbetriebnahme eines KI-Systems, das Material oder Darbietungen im Sinne von Absatz 1 Unterabsatz 1 Buchstaben ba oder bb generiert oder manipuliert, ist nur verboten, wenn i) die Erzeugung oder Manipulation die Zweckbestimmung des KI-Systems sind oder ii) aufgrund der Gestaltung, des Trainings, der Architektur, der Fähigkeiten oder der nutzerseitigen Funktionen des Systems diese Erzeugung oder Manipulation ein nach vernünftigem Ermessen absehbares und reproduzierbares Ergebnis ist, ohne dass erhebliche technische Änderungen erforderlich sind, und das System nicht über zumutbare und angemessene technische Sicherheitsmaßnahmen und andere Schutzvorkehrungen verfügt, um diese Erzeugung oder Manipulation unter Berücksichtigung einer nach vernünftigem Ermessen absehbaren missbräuchlichen Nutzung zuverlässig zu verhindern und eine beobachtete oder gemeldete missbräuchliche Nutzung zu korrigieren. b) Die Verwendung eines KI-Systems, mit dem Material oder Darbietungen im Sinne von Absatz 1 Unterabsatz 1 Buchstaben ba und bb erzeugt oder manipuliert werden, ist nur verboten, wenn der Betreiber das System zum Zwecke der Erzeugung oder der Manipulation solchen Materials oder solcher Darbietungen verwendet. 1b. Für die Zwecke von Absatz 1 Unterabsatz 1 Buchstabe ba gilt ein KI-System, mit dem das Material in einer Weise manipuliert wird, die die Sichtbarkeit der dargestellten intimen Körperteile weder erhöht noch die Art der dargestellten eindeutig sexuellen Handlungen verändert, nicht als manipulativ."
+  },
+  {
+    "id": "art5-p2-0",
+    "article": 5,
+    "text": "(2) Die Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken im Hinblick auf die in Absatz 1 Unterabsatz 1 Buchstabe h genannten Ziele darf für die in jenem Buchstaben genannten Zwecke nur zur Bestätigung der Identität der speziell betroffenen Person erfolgen, wobei folgende Elemente berücksichtigt werden:"
+  },
+  {
+    "id": "art5-p2-a",
+    "article": 5,
+    "text": "a) die Art der Situation, die der möglichen Verwendung zugrunde liegt, insbesondere die Schwere, die Wahrscheinlichkeit und das Ausmaß des Schadens, der entstehen würde, wenn das System nicht eingesetzt würde;"
+  },
+  {
+    "id": "art5-p2-b",
+    "article": 5,
+    "text": "b) die Folgen der Verwendung des Systems für die Rechte und Freiheiten aller betroffenen Personen, insbesondere die Schwere, die Wahrscheinlichkeit und das Ausmaß solcher Folgen. Darüber hinaus sind bei der Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken im Hinblick auf die in Absatz 1 Unterabsatz 1 Buchstabe h des vorliegenden Artikels genannten Ziele notwendige und verhältnismäßige Schutzvorkehrungen und Bedingungen für die Verwendung im Einklang mit nationalem Recht über die Ermächtigung ihrer Verwendung einzuhalten, insbesondere in Bezug auf die zeitlichen, geografischen und personenbezogenen Beschränkungen. Die Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen ist nur dann zu gestatten, wenn die Strafverfolgungsbehörde eine Folgenabschätzung im Hinblick auf die Grundrechte gemäß Artikel 27 abgeschlossen und das System gemäß Artikel 49 in der EU-Datenbank registriert hat. In hinreichend begründeten dringenden Fällen kann jedoch mit der Verwendung solcher Systeme zunächst ohne Registrierung in der EU-Datenbank begonnen werden, sofern diese Registrierung unverzüglich erfolgt."
+  },
+  {
+    "id": "art5-p3-0",
+    "article": 5,
+    "text": "(3) Für die Zwecke des Absatz 1 Unterabsatz 1 Buchstabe h und des Absatzes 2 ist für jede Verwendung eines biometrischen Echtzeit-Fernidentifizierungssystems in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken eine vorherige Genehmigung erforderlich, die von einer Justizbehörde oder einer unabhängigen Verwaltungsbehörde des Mitgliedstaats, in dem die Verwendung erfolgen soll, auf begründeten Antrag und gemäß den in Absatz 5 genannten detaillierten nationalen Rechtsvorschriften erteilt wird, wobei deren Entscheidung bindend ist. In hinreichend begründeten dringenden Fällen kann jedoch mit der Verwendung eines solchen Systems zunächst ohne Genehmigung begonnen werden, sofern eine solche Genehmigung unverzüglich, spätestens jedoch innerhalb von 24 Stunden beantragt wird. Wird eine solche Genehmigung abgelehnt, so wird die Verwendung mit sofortiger Wirkung eingestellt und werden alle Daten sowie die Ergebnisse und Ausgaben dieser Verwendung unverzüglich verworfen und gelöscht. Die zuständige Justizbehörde oder eine unabhängige Verwaltungsbehörde, deren Entscheidung bindend ist, erteilt die Genehmigung nur dann, wenn sie auf der Grundlage objektiver Nachweise oder eindeutiger Hinweise, die ihr vorgelegt werden, davon überzeugt ist, dass die Verwendung des betreffenden biometrischen Echtzeit-Fernidentifizierungssystems für das Erreichen eines der in Absatz 1 Unterabsatz 1 Buchstabe h genannten Ziele — wie im Antrag angegeben — notwendig und verhältnismäßig ist und insbesondere auf das in Bezug auf den Zeitraum sowie den geografischen und persönlichen Anwendungsbereich unbedingt erforderliche Maß beschränkt bleibt. Bei ihrer Entscheidung über den Antrag berücksichtigt diese Behörde die in Absatz 2 genannten Elemente. Eine Entscheidung, aus der sich eine nachteilige Rechtsfolge für eine Person ergibt, darf nicht ausschließlich auf der Grundlage der Ausgabe des biometrischen Echtzeit-Fernidentifizierungssystems getroffen werden."
+  },
+  {
+    "id": "art5-p4",
+    "article": 5,
+    "text": "(4) Unbeschadet des Absatzes 3 wird jede Verwendung eines biometrischen Echtzeit-Fernidentifizierungssystems in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken der zuständigen Marktüberwachungsbehörde und der nationalen Datenschutzbehörde gemäß den in Absatz 5 genannten nationalen Vorschriften mitgeteilt. Die Mitteilung muss mindestens die in Absatz 6 genannten Angaben enthalten und darf keine sensiblen operativen Daten enthalten."
+  },
+  {
+    "id": "art5-p5",
+    "article": 5,
+    "text": "(5) Ein Mitgliedstaat kann die Möglichkeit einer vollständigen oder teilweisen Ermächtigung zur Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken innerhalb der in Absatz 1 Unterabsatz 1 Buchstabe h sowie Absätze 2 und 3 aufgeführten Grenzen und unter den dort genannten Bedingungen vorsehen. Die betreffenden Mitgliedstaaten legen in ihrem nationalen Recht die erforderlichen detaillierten Vorschriften für die Beantragung, Erteilung und Ausübung der in Absatz 3 genannten Genehmigungen sowie für die entsprechende Beaufsichtigung und Berichterstattung fest. In diesen Vorschriften wird auch festgelegt, im Hinblick auf welche der in Absatz 1 Unterabsatz 1 Buchstabe h aufgeführten Ziele und welche der unter Buchstabe h Ziffer iii genannten Straftaten die zuständigen Behörden ermächtigt werden können, diese Systeme zu Strafverfolgungszwecken zu verwenden. Die Mitgliedstaaten teilen der Kommission diese Vorschriften spätestens 30 Tage nach ihrem Erlass mit. Die Mitgliedstaaten können im Einklang mit dem Unionsrecht strengere Rechtsvorschriften für die Verwendung biometrischer Fernidentifizierungssysteme erlassen."
+  },
+  {
+    "id": "art5-p6",
+    "article": 5,
+    "text": "(6) Die nationalen Marktüberwachungsbehörden und die nationalen Datenschutzbehörden der Mitgliedstaaten, denen gemäß Absatz 4 die Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken mitgeteilt wurden, legen der Kommission Jahresberichte über diese Verwendung vor. Zu diesem Zweck stellt die Kommission den Mitgliedstaaten und den nationalen Marktüberwachungs- und Datenschutzbehörden ein Muster zur Verfügung, das Angaben über die Anzahl der Entscheidungen der zuständigen Justizbehörden oder einer unabhängigen Verwaltungsbehörde, deren Entscheidung über Genehmigungsanträge gemäß Absatz 3 bindend ist, und deren Ergebnis enthält."
+  },
+  {
+    "id": "art5-p7",
+    "article": 5,
+    "text": "(7) Die Kommission veröffentlicht Jahresberichte über die Verwendung biometrischer Echtzeit-Fernidentifizierungssysteme in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken, die auf aggregierten Daten aus den Mitgliedstaaten auf der Grundlage der in Absatz 6 genannten Jahresberichte beruhen. Diese Jahresberichte dürfen keine sensiblen operativen Daten im Zusammenhang mit den damit verbundenen Strafverfolgungsmaßnahmen enthalten."
+  },
+  {
+    "id": "art5-p8",
+    "article": 5,
+    "text": "(8) Dieser Artikel berührt nicht die Verbote, die gelten, wenn KI-Praktiken gegen andere Rechtsvorschriften der Union verstoßen."
+  },
+  {
+    "id": "art6-p1",
+    "article": 6,
+    "text": "(1) Ungeachtet dessen, ob ein KI-System unabhängig von den unter den Buchstaben a und b genannten Produkten in Verkehr gebracht oder in Betrieb genommen wird, gilt es als Hochrisiko-KI-System, wenn die beiden folgenden Bedingungen erfüllt sind: a) das KI-System soll als Sicherheitsbauteil eines unter die in Anhang I aufgeführten Harmonisierungsrechtsvorschriften der Union fallenden Produkts verwendet werden oder das KI-System ist selbst ein solches Produkt; b) das Produkt, dessen Sicherheitsbauteil gemäß Buchstabe a das KI-System ist, oder das KI-System selbst als Produkt muss einer Konformitätsbewertung durch Dritte im Hinblick auf das Inverkehrbringen oder die Inbetriebnahme dieses Produkts gemäß den in Anhang I aufgeführten Harmonisierungsrechtsvorschriften der Union unterzogen werden."
+  },
+  {
+    "id": "art6-p1a",
+    "article": 6,
+    "text": "(1a) Für die Zwecke dieser Verordnung, einschließlich des Absatzes 1 dieses Artikels, gelten KI-Systeme, die ausschließlich für nicht sicherheitsrelevante Aspekte der Nutzerunterstützung, Leistungsoptimierung, Leistungseffizienz, Automatisierung oder Benutzerfreundlichkeit oder Qualitätskontrolle verwendet werden, nicht als Sicherheitsbauteile."
+  },
+  {
+    "id": "art6-p1b",
+    "article": 6,
+    "text": "(1b) Ungeachtet des Absatzes 1a gelten KI-Systeme, deren Ausfall oder Fehlfunktion Gesundheit und Sicherheit gefährden würde, als Sicherheitsbauteile."
+  },
+  {
+    "id": "art6-p1c",
+    "article": 6,
+    "text": "(1c) Ein Produkt, das ausschließlich aufgrund anderer Risiken als Risiken für Gesundheit und Sicherheit einer Konformitätsbewertung durch Dritte unterzogen werden muss, insbesondere aufgrund von Risiken im Zusammenhang mit der Verbreitung von Funkfrequenzen oder elektromagnetischen Interferenzen, die Gesundheit und Sicherheit nicht beeinträchtigen, gilt nicht als Produkt, das die Bedingung in Absatz 1 Buchstabe b erfüllt."
+  },
+  {
+    "id": "art6-p2",
+    "article": 6,
+    "text": "(2) Zusätzlich zu den in Absatz 1 genannten Hochrisiko-KI-Systemen gelten die in Anhang III genannten KI-Systeme als hochriskant."
+  },
+  {
+    "id": "art6-p3",
+    "article": 6,
+    "text": "(3) Abweichend von Absatz 2 gilt ein in Anhang III genanntes KI-System nicht als hochriskant, wenn es kein erhebliches Risiko der Beeinträchtigung in Bezug auf die Gesundheit, Sicherheit oder Grundrechte natürlicher Personen birgt, indem es unter anderem nicht das Ergebnis der Entscheidungsfindung wesentlich beeinflusst. Unterabsatz 1 gilt, wenn eine der folgenden Bedingungen erfüllt ist: a) das KI-System ist dazu bestimmt, eine eng gefasste Verfahrensaufgabe durchzuführen; b) das KI-System ist dazu bestimmt, das Ergebnis einer zuvor abgeschlossenen menschlichen Tätigkeit zu verbessern; c) das KI-System ist dazu bestimmt, Entscheidungsmuster oder Abweichungen von früheren Entscheidungsmustern zu erkennen, und ist nicht dazu gedacht, die zuvor abgeschlossene menschliche Bewertung ohne eine angemessene menschliche Überprüfung zu ersetzen oder zu beeinflussen; oder d) das KI-System ist dazu bestimmt, eine vorbereitende Aufgabe für eine Bewertung durchzuführen, die für die Zwecke der in Anhang III aufgeführten Anwendungsfälle relevant ist. Ungeachtet des Unterabsatzes 1 gilt ein in Anhang III aufgeführtes KI-System immer dann als hochriskant, wenn es ein Profiling natürlicher Personen vornimmt."
+  },
+  {
+    "id": "art6-p4",
+    "article": 6,
+    "text": "(4) Ein Anbieter, der der Auffassung ist, dass ein in Anhang III aufgeführtes KI-System nicht hochriskant ist, dokumentiert seine Bewertung, bevor dieses System in Verkehr gebracht oder in Betrieb genommen wird. Dieser Anbieter unterliegt der Registrierungspflicht gemäß Artikel 49 Absatz 2. Auf Verlangen der zuständigen nationalen Behörden legt der Anbieter die Dokumentation der Bewertung vor."
+  },
+  {
+    "id": "art6-p5",
+    "article": 6,
+    "text": "(5) Die Kommission stellt nach Konsultation des Europäischen Gremiums für Künstliche Intelligenz (im Folgenden „KI-Gremium” ) spätestens bis zum 2. Februar 2026 Leitlinien zur praktischen Umsetzung dieses Artikels gemäß Artikel 96 und eine umfassende Liste praktischer Beispiele für Anwendungsfälle für KI-Systeme, die hochriskant oder nicht hochriskant sind, bereit."
+  },
+  {
+    "id": "art6-p6",
+    "article": 6,
+    "text": "(6) Die Kommission ist befugt, gemäß Artikel 97 delegierte Rechtsakte zu erlassen, um Absatz 3 Unterabsatz 2 des vorliegenden Artikels zu ändern, indem neue Bedingungen zu den darin genannten Bedingungen hinzugefügt oder diese geändert werden, wenn konkrete und zuverlässige Beweise für das Vorhandensein von KI-Systemen vorliegen, die in den Anwendungsbereich von Anhang III fallen, jedoch kein erhebliches Risiko der Beeinträchtigung in Bezug auf die Gesundheit, Sicherheit oder Grundrechte natürlicher Personen bergen."
+  },
+  {
+    "id": "art6-p7",
+    "article": 6,
+    "text": "(7) Die Kommission erlässt gemäß Artikel 97 delegierte Rechtsakte, um Absatz 3 Unterabsatz 2 des vorliegenden Artikels zu ändern, indem eine der darin festgelegten Bedingungen gestrichen wird, wenn konkrete und zuverlässige Beweise dafür vorliegen, dass dies für die Aufrechterhaltung des Schutzniveaus in Bezug auf Gesundheit, Sicherheit und die in dieser Verordnung vorgesehenen Grundrechte erforderlich ist."
+  },
+  {
+    "id": "art6-p8",
+    "article": 6,
+    "text": "(8) Eine Änderung der in Absatz 3 Unterabsatz 2 festgelegten Bedingungen, die gemäß den Absätzen 6 und 7 des vorliegenden Artikels erlassen wurde, darf das allgemeine Schutzniveau in Bezug auf Gesundheit, Sicherheit und die in dieser Verordnung vorgesehenen Grundrechte nicht senken; dabei ist die Kohärenz mit den gemäß Artikel 7 Absatz 1 erlassenen delegierten Rechtsakten sicherzustellen und die Marktentwicklungen und die technologischen Entwicklungen sind zu berücksichtigen."
+  },
+  {
+    "id": "art26-p1",
+    "article": 26,
+    "text": "(1) Die Betreiber von Hochrisiko-KI-Systemen treffen geeignete technische und organisatorische Maßnahmen, um sicherzustellen, dass sie solche Systeme entsprechend der den Systemen beigefügten Betriebsanleitungen und gemäß den Absätzen 3 und 6 verwenden."
+  },
+  {
+    "id": "art26-p2",
+    "article": 26,
+    "text": "(2) Die Betreiber übertragen natürlichen Personen, die über die erforderliche Kompetenz, Ausbildung und Befugnis verfügen, die menschliche Aufsicht und lassen ihnen die erforderliche Unterstützung zukommen."
+  },
+  {
+    "id": "art26-p3",
+    "article": 26,
+    "text": "(3) Die Pflichten nach den Absätzen 1 und 2 lassen sonstige Pflichten der Betreiber nach Unionsrecht oder nationalem Recht sowie die Freiheit der Betreiber bei der Organisation ihrer eigenen Ressourcen und Tätigkeiten zur Wahrnehmung der vom Anbieter angegebenen Maßnahmen der menschlichen Aufsicht unberührt."
+  },
+  {
+    "id": "art26-p4",
+    "article": 26,
+    "text": "(4) Unbeschadet der Absätze 1 und 2 und soweit die Eingabedaten ihrer Kontrolle unterliegen, sorgen die Betreiber dafür, dass die Eingabedaten der Zweckbestimmung des Hochrisiko-KI-Systems entsprechen und ausreichend repräsentativ sind."
+  },
+  {
+    "id": "art26-p5",
+    "article": 26,
+    "text": "(5) Die Betreiber überwachen den Betrieb des Hochrisiko-KI-Systems anhand der Betriebsanleitung und informieren gegebenenfalls die Anbieter gemäß Artikel 72. Haben Betreiber Grund zu der Annahme, dass die Verwendung gemäß der Betriebsanleitung dazu führen kann, dass dieses Hochrisiko-KI-System ein Risiko im Sinne des Artikels 79 Absatz 1 birgt, so informieren sie unverzüglich den Anbieter oder Händler und die zuständige Marktüberwachungsbehörde und setzen die Verwendung dieses Systems aus. Haben die Betreiber einen schwerwiegenden Vorfall festgestellt, informieren sie auch unverzüglich zuerst den Anbieter und dann den Einführer oder Händler und die zuständigen Marktüberwachungsbehörden über diesen Vorfall. Kann der Betreiber den Anbieter nicht erreichen, so gilt Artikel 73 entsprechend. Diese Pflicht gilt nicht für sensible operative Daten von Betreibern von KI-Systemen, die Strafverfolgungsbehörden sind. Bei Betreibern, die Finanzinstitute sind und gemäß den Rechtsvorschriften der Union über Finanzdienstleistungen Anforderungen in Bezug auf ihre Regelungen oder Verfahren der internen Unternehmensführung, unterliegen, gilt die in Unterabsatz 1 festgelegte Überwachungspflicht als erfüllt, wenn die Vorschriften über Regelungen, Verfahren oder Mechanismen der internen Unternehmensführung gemäß einschlägigem Recht über Finanzdienstleistungen eingehalten werden."
+  },
+  {
+    "id": "art26-p6",
+    "article": 26,
+    "text": "(6) Betreiber von Hochrisiko-KI-Systemen bewahren die von ihrem Hochrisiko-KI-System automatisch erzeugten Protokolle, soweit diese Protokolle ihrer Kontrolle unterliegen, für einen der Zweckbestimmung des Hochrisiko-KI-Systems angemessenen Zeitraum von mindestens sechs Monaten auf, sofern im geltenden Unionsrecht, insbesondere im Unionsrecht über den Schutz personenbezogener Daten, oder im geltenden nationalen Recht nichts anderes bestimmt ist. Betreiber, die Finanzinstitute sind und gemäß den Rechtsvorschriften der Union über Finanzdienstleistungen Anforderungen in Bezug auf ihre Regelungen oder Verfahren der internen Unternehmensführung unterliegen, bewahren die Protokolle als Teil der gemäß einschlägigem Unionsecht über Finanzdienstleistungen aufzubewahrenden Dokumentation auf."
+  },
+  {
+    "id": "art26-p7",
+    "article": 26,
+    "text": "(7) Vor der Inbetriebnahme oder Verwendung eines Hochrisiko-KI-Systems am Arbeitsplatz informieren Betreiber, die Arbeitgeber sind, die Arbeitnehmervertreter und die betroffenen Arbeitnehmer darüber, dass sie der Verwendung des Hochrisiko-KI-Systems unterliegen werden. Diese Informationen werden gegebenenfalls im Einklang mit den Vorschriften und Gepflogenheiten auf Unionsebene und nationaler Ebene in Bezug auf die Unterrichtung der Arbeitnehmer und ihrer Vertreter bereitgestellt."
+  },
+  {
+    "id": "art26-p8",
+    "article": 26,
+    "text": "(8) Betreiber von Hochrisiko-KI-Systemen, bei denen es sich um Organe, Einrichtungen oder sonstige Stellen der Union handelt, müssen den Registrierungspflichten gemäß Artikel 49 nachkommen. Stellen diese Betreiber fest, dass das Hochrisiko-KI-System, dessen Verwendung sie planen, nicht in der in Artikel 71 genannten EU-Datenbank registriert wurde, sehen sie von der Verwendung dieses Systems ab und informieren den Anbieter oder den Händler."
+  },
+  {
+    "id": "art26-p9",
+    "article": 26,
+    "text": "(9) Die Betreiber von Hochrisiko-KI-Systemen verwenden gegebenenfalls die gemäß Artikel 13 der vorliegenden Verordnung bereitgestellten Informationen, um ihrer Pflicht zur Durchführung einer Datenschutz-Folgenabschätzung gemäß Artikel 35 der Verordnung (EU) 2016/679 oder Artikel 27 der Richtlinie (EU) 2016/680 nachzukommen."
+  },
+  {
+    "id": "art26-p10-0",
+    "article": 26,
+    "text": "(10) Unbeschadet der Richtlinie (EU) 2016/680 beantragt der Betreiber eines Hochrisiko-KI-Systems zur nachträglichen biometrischen Fernfernidentifizierung im Rahmen von Ermittlungen zur gezielten Suche einer Person, die der Begehung einer Straftat verdächtigt wird oder aufgrund einer solchen verurteilt wurde, vorab oder unverzüglich, spätestens jedoch binnen 48 Stunden bei einer Justizbehörde oder einer Verwaltungsbehörde, deren Entscheidung bindend ist und einer justiziellen Überprüfung unterliegt, die Genehmigung für die Nutzung dieses Systems, es sei denn, es wird zur erstmaligen Identifizierung eines potenziellen Verdächtigen auf der Grundlage objektiver und nachprüfbarer Tatsachen, die in unmittelbarem Zusammenhang mit der Straftat stehen, verwendet. Jede Verwendung ist auf das für die Ermittlung einer bestimmten Straftat unbedingt erforderliche Maß zu beschränken. Wird die gemäß Unterabsatz 1 beantragte Genehmigung abgelehnt, so wird die Verwendung des mit dieser beantragten Genehmigung verbundenen Systems zur nachträglichen biometrischen Fernidentifizierung mit sofortiger Wirkung eingestellt und werden die personenbezogenen Daten, die im Zusammenhang mit der Verwendung des Hochrisiko-KI-Systems stehen, für die die Genehmigung beantragt wurde, gelöscht. In keinem Fall darf ein solches Hochrisiko-KI-System zur nachträglichen biometrischen Fernidentifizierung zu Strafverfolgungszwecken in nicht zielgerichteter Weise und ohne jeglichen Zusammenhang mit einer Straftat, einem Strafverfahren, einer tatsächlichen und bestehenden oder tatsächlichen und vorhersehbaren Gefahr einer Straftat oder der Suche nach einer bestimmten vermissten Person verwendet werden. Es muss sichergestellt werden, dass die Strafverfolgungsbehörden keine ausschließlich auf der Grundlage der Ausgabe solcher Systeme zur nachträglichen biometrischen Fernidentifizierung beruhende Entscheidung, aus der sich eine nachteilige Rechtsfolge für eine Person ergibt, treffen. Dieser Absatz gilt unbeschadet des Artikels 9 der Verordnung (EU) 2016/679 und des Artikels 10 der Richtlinie (EU) 2016/680 für die Verarbeitung biometrischer Daten. Unabhängig vom Zweck oder Betreiber wird jede Verwendung solcher Hochrisiko-KI-Systeme in der einschlägigen Polizeiakte dokumentiert und der zuständigen Marktüberwachungsbehörde und der nationalen Datenschutzbehörde auf Anfrage zur Verfügung gestellt, wovon die Offenlegung sensibler operativer Daten im Zusammenhang mit der Strafverfolgung ausgenommen ist. Dieser Unterabsatz berührt nicht die den Aufsichtsbehörden durch die Richtlinie (EU) 2016/680 übertragenen Befugnisse. Die Betreiber legen den zuständigen Marktüberwachungsbehörden und den nationalen Datenschutzbehörden Jahresberichte über ihre Verwendung von Systemen zur nachträglichen biometrischen Fernidentifizierung vor, wovon die Offenlegung sensibler operativer Daten im Zusammenhang mit der Strafverfolgung ausgenommen ist. Die Berichte können eine Zusammenfassung sein, damit sie mehr als einen Einsatz abdecken. Die Mitgliedstaaten können im Einklang mit dem Unionsrecht strengere Rechtsvorschriften für die Verwendung von Systemen zur nachträglichen biometrischen Fernidentifizierung erlassen."
+  },
+  {
+    "id": "art26-p11",
+    "article": 26,
+    "text": "(11) Unbeschadet des Artikels 50 der vorliegenden Verordnung informieren die Betreiber der in Anhang III aufgeführten Hochrisiko-KI-Systeme, die natürliche Personen betreffende Entscheidungen treffen oder bei solchen Entscheidungen Unterstützung leisten, die natürlichen Personen darüber, dass sie der Verwendung des Hochrisiko-KI-Systems unterliegen. Für Hochrisiko-KI-Systeme, die zu Strafverfolgungszwecken verwendet werden, gilt Artikel 13 der Richtlinie (EU) 2016/680."
+  },
+  {
+    "id": "art26-p12",
+    "article": 26,
+    "text": "(12) Die Betreiber arbeiten mit den zuständigen Behörden bei allen Maßnahmen zusammen, die diese Behörden im Zusammenhang mit dem Hochrisiko-KI-System zur Umsetzung dieser Verordnung ergreifen."
+  },
+  {
+    "id": "art50-p1",
+    "article": 50,
+    "text": "(1) Die Anbieter stellen sicher, dass KI-Systeme, die für die direkte Interaktion mit natürlichen Personen bestimmt sind, so konzipiert und entwickelt werden, dass die betreffenden natürlichen Personen informiert werden, dass sie mit einem KI-System interagieren, es sei denn, dies ist aus Sicht einer angemessen informierten, aufmerksamen und verständigen natürlichen Person aufgrund der Umstände und des Kontexts der Nutzung offensichtlich. Diese Pflicht gilt nicht für gesetzlich zur Aufdeckung, Verhütung, Ermittlung oder Verfolgung von Straftaten zugelassene KI-Systeme, wenn geeignete Schutzvorkehrungen für die Rechte und Freiheiten Dritter bestehen, es sei denn, diese Systeme stehen der Öffentlichkeit zur Anzeige einer Straftat zur Verfügung."
+  },
+  {
+    "id": "art50-p2",
+    "article": 50,
+    "text": "(2) Anbieter von KI-Systemen, einschließlich KI-Systemen mit allgemeinem Verwendungszweck, die synthetische Audio-, Bild-, Video- oder Textinhalte erzeugen, stellen sicher, dass die Ausgaben des KI-Systems in einem maschinenlesbaren Format gekennzeichnet und als künstlich erzeugt oder manipuliert erkennbar sind. Die Anbieter sorgen dafür, dass — soweit technisch möglich — ihre technischen Lösungen wirksam, interoperabel, belastbar und zuverlässig sind und berücksichtigen dabei die Besonderheiten und Beschränkungen der verschiedenen Arten von Inhalten, die Umsetzungskosten und den allgemein anerkannten Stand der Technik, wie er in den einschlägigen technischen Normen zum Ausdruck kommen kann. Diese Pflicht gilt nicht, soweit die KI-Systeme eine unterstützende Funktion für die Standardbearbeitung ausführen oder die vom Betreiber bereitgestellten Eingabedaten oder deren Semantik nicht wesentlich verändern oder wenn sie zur Aufdeckung, Verhütung, Ermittlung oder Verfolgung von Straftaten gesetzlich zugelassen sind."
+  },
+  {
+    "id": "art50-p3",
+    "article": 50,
+    "text": "(3) Die Betreiber eines Emotionserkennungssystems oder eines Systems zur biometrischen Kategorisierung informieren die davon betroffenen natürlichen Personen über den Betrieb des Systems und verarbeiten personenbezogene Daten gemäß den Verordnungen (EU) 2016/679 und (EU) 2018/1725 und der Richtlinie (EU) 2016/680. Diese Pflicht gilt nicht für gesetzlich zur Aufdeckung, Verhütung oder Ermittlung von Straftaten zugelassene KI-Systeme, die zur biometrischen Kategorisierung und Emotionserkennung im Einklang mit dem Unionsrecht verwendet werden, sofern geeignete Schutzvorkehrungen für die Rechte und Freiheiten Dritter bestehen."
+  },
+  {
+    "id": "art50-p4",
+    "article": 50,
+    "text": "(4) Betreiber eines KI-Systems, das Bild-, Ton- oder Videoinhalte erzeugt oder manipuliert, die ein Deepfake sind, müssen offenlegen, dass die Inhalte künstlich erzeugt oder manipuliert wurden. Diese Pflicht gilt nicht, wenn die Verwendung zur Aufdeckung, Verhütung, Ermittlung oder Verfolgung von Straftaten gesetzlich zugelassen ist. Ist der Inhalt Teil eines offensichtlich künstlerischen, kreativen, satirischen, fiktionalen oder analogen Werks oder Programms, so beschränken sich die in diesem Absatz festgelegten Transparenzpflichten darauf, das Vorhandensein solcher erzeugten oder manipulierten Inhalte in geeigneter Weise offenzulegen, die die Darstellung oder den Genuss des Werks nicht beeinträchtigt. Betreiber eines KI-Systems, das Text erzeugt oder manipuliert, der veröffentlicht wird, um die Öffentlichkeit über Angelegenheiten von öffentlichem Interesse zu informieren, müssen offenlegen, dass der Text künstlich erzeugt oder manipuliert wurde. Diese Pflicht gilt nicht, wenn die Verwendung zur Aufdeckung, Verhütung, Ermittlung oder Verfolgung von Straftaten gesetzlich zugelassen ist oder wenn die durch KI erzeugten Inhalte einem Verfahren der menschlichen Überprüfung oder redaktionellen Kontrolle unterzogen wurden und wenn eine natürliche oder juristische Person die redaktionelle Verantwortung für die Veröffentlichung der Inhalte trägt."
+  },
+  {
+    "id": "art50-p5",
+    "article": 50,
+    "text": "(5) Die in den Absätzen 1 bis 4 genannten Informationen werden den betreffenden natürlichen Personen spätestens zum Zeitpunkt der ersten Interaktion oder Aussetzung in klarer und eindeutiger Weise bereitgestellt. Die Informationen müssen den geltenden Barrierefreiheitsanforderungen entsprechen."
+  },
+  {
+    "id": "art50-p6",
+    "article": 50,
+    "text": "(6) Die Absätze 1 bis 4 lassen die in Kapitel III festgelegten Anforderungen und Pflichten unberührt und berühren nicht andere Transparenzpflichten, die im Unionsrecht oder dem nationalen Recht für Betreiber von KI-Systemen festgelegt sind."
+  },
+  {
+    "id": "art50-p7",
+    "article": 50,
+    "text": "(7) Die Kommission fördert und erleichtert die Ausarbeitung von Praxisleitfäden auf Unionsebene, um die wirksame Umsetzung der Pflichten in Bezug auf die Feststellung, Markierung und Kennzeichnung künstlich erzeugter oder manipulierter Inhalte zu erleichtern. Die Kommission prüft unter weitestgehender Berücksichtigung der Stellungnahme des KI-Gremiums nach dem Verfahren des Artikels 56 Absatz 6 Unterabsatz 1, ob die Befolgung dieser Praxisleitfäden angemessen ist, um die Einhaltung der in den Absätzen 2 und 4 dieses Artikels festgelegten Pflichten zu gewährleisten. Hält sie den Praxisleitfaden für unangemessen, so kann die Kommission einen Durchführungsrechtsakt gemäß dem in Artikel 98 Absatz 2 genannten Prüfverfahren erlassen, in dem gemeinsame Vorschriften für die Umsetzung dieser Pflichten festgelegt werden."
+  },
+  {
+    "id": "art99-p1",
+    "article": 99,
+    "text": "(1) Entsprechend den Vorgaben dieser Verordnung erlassen die Mitgliedstaaten Vorschriften für Sanktionen und andere Durchsetzungsmaßnahmen, zu denen auch Geldbußen, Verwarnungen und nichtmonetäre Maßnahmen gehören können, die bei jeglichem Verstoß gegen diese Verordnung durch Akteure Anwendung finden, und ergreifen alle Maßnahmen, die für deren ordnungsgemäße und wirksame Durchsetzung notwendig sind, wobei die von der Kommission gemäß Artikel 96 erteilten Leitlinien zu berücksichtigen sind. Die vorgesehenen Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein. Die Mitgliedstaaten berücksichtigen bei der Verhängung von Sanktionen die Interessen von KMU, einschließlich Start-up-Unternehmen, und von kleinen Midcap-Unternehmen sowie deren wirtschaftliches Überleben."
+  },
+  {
+    "id": "art99-p2",
+    "article": 99,
+    "text": "(2) Die Mitgliedstaaten teilen der Kommission die Vorschriften für Sanktionen und andere Durchsetzungsmaßnahmen gemäß Absatz 1 unverzüglich und spätestens zum Zeitpunkt ihres Inkrafttretens mit und melden ihr unverzüglich etwaige spätere Änderungen."
+  },
+  {
+    "id": "art99-p3",
+    "article": 99,
+    "text": "(3) Bei Missachtung des Verbots der in Artikel 5 genannten KI-Praktiken werden Geldbußen von bis zu 35000000 EUR oder — im Falle von Unternehmen — von bis zu 7 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist."
+  },
+  {
+    "id": "art99-p4",
+    "article": 99,
+    "text": "(4) Für Verstöße gegen folgende für Akteure oder notifizierte Stellen geltende Bestimmungen, mit Ausnahme der in Artikel 5 genannten, werden Geldbußen von bis zu 15000000 EUR oder — im Falle von Unternehmen — von bis zu 3 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist: a) Pflichten der Anbieter gemäß Artikel 16; b) Pflichten der Bevollmächtigten gemäß Artikel 22; c) Pflichten der Einführer gemäß Artikel 23; d) Pflichten der Händler gemäß Artikel 24; da) Pflichten der Anbieter und Akteure gemäß Artikel 25 Absätze 2 und 4; e) Pflichten der Betreiber gemäß Artikel 26; f) für notifizierte Stellen geltende Anforderungen und Pflichten gemäß Artikel 31, Artikel 33 Absätze 1, 3 und 4 bzw. Artikel 34; g) Transparenzpflichten für Anbieter und Betreiber gemäß Artikel 50."
+  },
+  {
+    "id": "art99-p5",
+    "article": 99,
+    "text": "(5) Werden notifizierten Stellen oder zuständigen nationalen Behörden auf deren Auskunftsersuchen hin falsche, unvollständige oder irreführende Informationen bereitgestellt, so werden Geldbußen von bis zu 7500000 EUR oder — im Falle von Unternehmen — von bis zu 1 % des gesamten weltweiten Jahresumsatzes des vorangegangenen Geschäftsjahres verhängt, je nachdem, welcher Betrag höher ist."
+  },
+  {
+    "id": "art99-p6",
+    "article": 99,
+    "text": "(6) Im Falle von KMU, einschließlich Start-up-Unternehmen, gilt für jede in diesem Artikel genannte Geldbuße der jeweils niedrigere Betrag aus den in den Absätzen 3, 4 und 5 genannten Prozentsätzen oder Summen."
+  },
+  {
+    "id": "art99-p6a",
+    "article": 99,
+    "text": "(6a) Im Falle von kleinen Midcap-Unternehmen gilt für jede in den Absätzen 4 und 5 genannte Geldbuße der jeweils niedrigere Betrag aus den darin genannten Prozentsätzen oder Summen."
+  },
+  {
+    "id": "art99-p7",
+    "article": 99,
+    "text": "(7) Bei der Entscheidung, ob eine Geldbuße verhängt wird, und bei der Festsetzung der Höhe der Geldbuße werden in jedem Einzelfall alle relevanten Umstände der konkreten Situation sowie gegebenenfalls Folgendes berücksichtigt: a) Art, Schwere und Dauer des Verstoßes und seiner Folgen, unter Berücksichtigung des Zwecks des KI-Systems sowie gegebenenfalls der Zahl der betroffenen Personen und des Ausmaßes des von ihnen erlittenen Schadens; b) ob demselben Akteur bereits von anderen Marktüberwachungsbehörden für denselben Verstoß Geldbußen auferlegt wurden; c) ob demselben Akteur bereits von anderen Behörden für Verstöße gegen das Unionsrecht oder das nationale Recht Geldbußen auferlegt wurden, wenn diese Verstöße auf dieselbe Handlung oder Unterlassung zurückzuführen sind, die einen einschlägigen Verstoß gegen diese Verordnung darstellt; d) Größe, Jahresumsatz und Marktanteil des Akteurs, der den Verstoß begangen hat; e) jegliche anderen erschwerenden oder mildernden Umstände im jeweiligen Fall, wie etwa unmittelbar oder mittelbar durch den Verstoß erlangte finanzielle Vorteile oder vermiedene Verluste; f) Grad der Zusammenarbeit mit den zuständigen nationalen Behörden, um den Verstoß abzustellen und die möglichen nachteiligen Auswirkungen des Verstoßes abzumildern; g) Grad an Verantwortung des Akteurs unter Berücksichtigung der von ihm ergriffenen technischen und organisatorischen Maßnahmen; h) Art und Weise, wie der Verstoß den zuständigen nationalen Behörden bekannt wurde, insbesondere ob und gegebenenfalls in welchem Umfang der Akteur den Verstoß gemeldet hat; i) Vorsätzlichkeit oder Fahrlässigkeit des Verstoßes; j) alle Maßnahmen, die der Akteur ergriffen hat, um den Schaden, der den betroffenen Personen zugefügt wird, zu mindern."
+  },
+  {
+    "id": "art99-p8",
+    "article": 99,
+    "text": "(8) Jeder Mitgliedstaat erlässt Vorschriften darüber, in welchem Umfang gegen Behörden und öffentliche Stellen, die in dem betreffenden Mitgliedstaat niedergelassen sind, Geldbußen verhängt werden können."
+  },
+  {
+    "id": "art99-p9",
+    "article": 99,
+    "text": "(9) In Abhängigkeit vom Rechtssystem der Mitgliedstaaten können die Vorschriften über Geldbußen je nach den dort geltenden Regeln so angewandt werden, dass die Geldbußen von den zuständigen nationalen Gerichten oder von sonstigen Stellen verhängt werden. Die Anwendung dieser Vorschriften in diesen Mitgliedstaaten muss eine gleichwertige Wirkung haben."
+  },
+  {
+    "id": "art99-p10",
+    "article": 99,
+    "text": "(10) Die Ausübung der Befugnisse gemäß diesem Artikel muss angemessenen Verfahrensgarantien gemäß dem Unionsrecht und dem nationalen Recht, einschließlich wirksamer gerichtlicher Rechtsbehelfe und ordnungsgemäßer Verfahren, unterliegen."
+  },
+  {
+    "id": "art99-p11",
+    "article": 99,
+    "text": "(11) Die Mitgliedstaaten erstatten der Kommission jährlich Bericht über die Geldbußen, die sie in dem betreffenden Jahr gemäß diesem Artikel verhängt haben, und über damit zusammenhängende Rechtsstreitigkeiten oder Gerichtsverfahren."
+  },
+  {
+    "id": "art113-p0",
+    "article": 113,
+    "text": "Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft. Sie gilt ab dem 2. August 2026. Jedoch: a) Die Kapitel I und II gelten ab dem 2. Februar 2025, mit Ausnahme von Artikel 5 Absatz 1 Unterabsatz 1 Buchstaben ba und bb und Artikel 5 Absätze 1a und 1b, die ab dem 2. Dezember 2026 gelten; b) Kapitel III Abschnitt 4, Kapitel V, Kapitel VII und Kapitel XII sowie Artikel 78 gelten ab dem 2. August 2025, mit Ausnahme des Artikels 101; c) Kapitel III Abschnitte 1, 2 und 3, mit Ausnahme von Artikel 6 Absatz 5, gelten ab dem: i) 2. Dezember 2027 in Bezug auf KI-Systeme, die gemäß Artikel 6 Absatz 2 und Anhang III als hochriskant eingestuft sind, und ii) 2. August 2028 in Bezug auf KI-Systeme, die gemäß Artikel 6 Absatz 1 und Anhang I als hochriskant eingestuft sind; d) Die Artikel 102 bis 110 gelten ab dem 27. Juli 2026."
+  }
+]

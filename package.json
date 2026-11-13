@@ -1,0 +1,25 @@
+{
+  "name": "regulation-mcp-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "bun test",
+    "check": "bun run typecheck && bun test",
+    "ingest": "bun scripts/ingest.ts",
+    "serve": "bun src/stdio.ts",
+    "eval:tools": "bun scripts/eval-tools.ts",
+    "eval:injection": "bun scripts/eval-injection.ts",
+    "ask": "bun scripts/ask.ts"
+  }
+}
