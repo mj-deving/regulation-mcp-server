@@ -5,5 +5,4 @@ data/
 .env.*
 
 # local work contract, not published
-ISA.md
 ISA.html

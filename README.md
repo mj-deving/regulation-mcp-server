@@ -281,6 +281,12 @@ transport that made the server testable without processes. The whole server is 1
 - Stronger payloads (multi-turn, paraphrased, in English) and a second model, to see whether the low
   follow rate holds.
 
+
+## Intent
+
+[`ISA.md`](ISA.md) (German) is the spec this repo was built against: what "done" meant, the probe
+that would falsify each criterion, the evidence recorded for it, and the limits left open on purpose.
+
 ## License
 
 Apache-2.0. Regulation text: Regulation (EU) 2024/1689, reusable under Commission Decision 2011/833/EU with attribution.
